@@ -1,1 +1,18 @@
-# my-summer-in-markdown
+# My-Summer-Vacation!
+## Intro
+Hi! My name is Lawrence Leverette. I'm in the 11th grade this year and I turned 16 on July 30th. I was able to do a lot of interesting things this summer. I'm glad that I get a chance to tell you a little bit about my summer vacation!
+
+## Topic 1
+One of my summer activites was going through summer band camp. Since I'm in the school band, we participate in a camp two weeks before school is about to start so that we can be prepared for when our Marching Band season starts. It was really fun getting to see old friends and getting to meet the new members who would be joining us. It wasn't just an easy event either. We had to stay there from 8 in the morning all the way to 2 pm. Although it was a lot of hard work, it was still fun. On the last day, we got to have a water balloon fight, which is a tradition of ours. This was definatley one of the highlights of my summer.
+
+## Topic 2
+I've also made some goals so that I'll improve compared to last year. One of my many goals is to pass all of my AP tests with at least a 3. Last year, I only took two AP classes and got a 2 and a 3. This year, I'm taking double the amount. I know that I was more than capable of passing my tests last year, so this I have more of an oppurtunity to show what I've got. Another one of my goals this year is to join at least one club since I didn't last year. The two that I have in mind are Junior Steering and Esports Club. My last goal of this year is to get mostly A's on my report card. This way, colleges will see my GPA and will send me offers.
+
+## Topic 3
+If I were to name my favorite summer dish, it would probably be my aunts mac and cheese. During the last week of July, my mom, brother and I went to a family reunion in Chicago. We stayed there for about 3 days. On the second day we all had a big cookout at a park. The adults made a lot of different dishes such as burgers, hotdogs, salad, etc. The mac and cheese was my favorite because the cheese wasnt super melty like other people's mac and cheese are. Adding on to that, I've always just been a fan of mac and cheese in general. That's why mac and cheese was my favorite summer dish.
+
+## Topic 4
+Another one of my favorite memories from summer was going to summer school to finish P.E. Now. I know that it sounds bad and boring, but it was actually the exact opposite. Firstly, there were a lot more of my friends there than I expected there to be. We'd always find new ways to make each other laugh, whether if it was something we saw or just the situation itself. Secondly, the teacher was actually very nice and chill. His name was Mr. K, and was probably one of my favorite teachers. He didn't really care what we did as long as we did what he wanted us to do first. He'd even join in on some of the games that we were playing. Lastly, the games themselves were really fun. We'd always have to form different strategies to win. One of them, in my opinion, was the best of them all. The point of the game was to get the ball into the other teams goal, where whoever got the ball could only take three steps before they had to pass it. So, our strategy was to make an assembly line and slowly carry the ball over to the other teams goal. These three aspects made the summer school experience way better than I thought it would be.
+
+## Topic 5
+In this class I hope to advance my knowledge on coding and learn about the javascript coding language. I've also been wanting to get an A in this class compared to last year. Another reason I hope to enhance my knowledge in computer science is because I want to go into something that involves software engineering. Whether it be video game desiging, graphic design, or even just working with computers themselves. This is why I'm excited about taking this class.
